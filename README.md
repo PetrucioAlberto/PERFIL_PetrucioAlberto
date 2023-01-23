@@ -5,7 +5,7 @@
 ## Sobre mim:
 
 Atualmente estou estudando Tecnologia em Análise e Desenvolvimento de Sistemas e
-focado em criar alguma experiencia na area de testes.
+focado na area de testes.
 
 
 
