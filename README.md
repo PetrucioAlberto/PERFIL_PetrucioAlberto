@@ -9,13 +9,17 @@
 - [LinkedIn](https://www.linkedin.com/in/petrucio-alberto)
 - [Google Cloud](https://encr.pw/sSrPE)
 
-💡 **Principais Competências:**
-- 🖥️ Lógica de programação: C#, JavaScript | SQL Server
-- 🤖 Automação de Testes: Cypress, Selenium
+**Principais Competências:**
+- 🖥️ Lógica de programação com C#, Java e JavaScript | SQL Server
+- 🤖 Automação de Testes: Cypress, Selenium WebDriver
 - 🕵️ Testes: Exploratórios, Regressivos, Métodos Ágeis (Scrum, Jira)
 - 📊 Gerenciamento de Dados, Modelagem e Execução de Testes
-- 📧 Automação de APIs: Postman | Testes automatizados: Cucumber, E2E
-- 📝 BDD e Gherkin | Git e GitHub
+- 📧 Automação de APIs: Postman | Criação de API no Swagger 
+- 📝 Testes automatizados: Cucumber, E2E
+- 📝 BDD e Gherkin
+- 📝 Criação de API no Swagger
+- 📝 Uso de Entity Framework
+- 📝 Teste Unitários (TDD)
 
 ## Desenvolvimento:
 
