@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou o Petrucio!
+# Hello!!, eu sou o Petrucio!
 
 Sou um **Analista de QA** com experiência em **testes manuais, automação e validação de dados**, atuando no setor de **seguros**.
 
